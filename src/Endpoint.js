@@ -1,1 +1,1 @@
-export const ENDPOINT_URL="";
+export const ENDPOINT_URL="https://secretsanta-api.herokuapp.com";
