@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:9092";
+const BASE_URL = "https://secretsanta-api.herokuapp.com";
 
 
 export const addParticipant = async (data) => {
